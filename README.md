@@ -1,3 +1,3 @@
 # Tutorial
-I just learnt this
+Examples of data structures
 
